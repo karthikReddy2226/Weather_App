@@ -26,8 +26,4 @@ A sleek and modern Weather App built using **Android Studio** and **Java/Kotlin*
 
 ---
 
-## 🔧 Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/weather-app-android.git
